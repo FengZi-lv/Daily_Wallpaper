@@ -1,0 +1,11 @@
+C:\Users\FengZi\source\repos\Daily Wallpaper\bin\Release\Daily Wallpaper.exe.config
+C:\Users\FengZi\source\repos\Daily Wallpaper\bin\Release\Daily Wallpaper.exe
+C:\Users\FengZi\source\repos\Daily Wallpaper\bin\Release\Daily Wallpaper.pdb
+C:\Users\FengZi\source\repos\Daily Wallpaper\obj\Release\Daily Wallpaper.csprojAssemblyReference.cache
+C:\Users\FengZi\source\repos\Daily Wallpaper\obj\Release\Daily_Wallpaper.Form1.resources
+C:\Users\FengZi\source\repos\Daily Wallpaper\obj\Release\Daily_Wallpaper.Properties.Resources.resources
+C:\Users\FengZi\source\repos\Daily Wallpaper\obj\Release\Daily_Wallpaper.Resource1.resources
+C:\Users\FengZi\source\repos\Daily Wallpaper\obj\Release\Daily Wallpaper.csproj.GenerateResource.cache
+C:\Users\FengZi\source\repos\Daily Wallpaper\obj\Release\Daily Wallpaper.csproj.CoreCompileInputs.cache
+C:\Users\FengZi\source\repos\Daily Wallpaper\obj\Release\Daily Wallpaper.exe
+C:\Users\FengZi\source\repos\Daily Wallpaper\obj\Release\Daily Wallpaper.pdb
