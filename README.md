@@ -29,10 +29,15 @@
 > Please give me a star.
 
 Climb Bing images every day, download them and automatically set them to wallpaper.
+
 Some of the features are not very well written.
+
 Due to the Bing interface limitation, there are only eight wallpapers per day. 🙄
+
 Source code is written very messy, it is recommended to use the line, or do not change. 😂
+
 (by the way, the realization of software UI is very Sao, suggest not to learn) 😅
+
 Usage:
 
 - 📐 If you want to change the source code, just download the Daily Wallpaper folder and import it into VS to go directly to 🚲
